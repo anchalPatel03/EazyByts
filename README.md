@@ -1,15 +1,2 @@
-# Installation
-> `npm install --save @types/whatwg-url`
+This is a personal portfolio website built using React. It showcases my skills, projects, and contact details. The website features an interactive and responsive layout, with sections such as About Me, Projects, and Contact. It serves as a platform to present my work, along with links to my LinkedIn profile and email for easy communication. The website is deployed using Vercel, ensuring fast and reliable access.
 
-# Summary
-This package contains type definitions for whatwg-url (https://github.com/jsdom/whatwg-url#readme).
-
-# Details
-Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/whatwg-url.
-
-### Additional Details
- * Last updated: Sat, 18 May 2024 21:06:54 GMT
- * Dependencies: [@types/webidl-conversions](https://npmjs.com/package/@types/webidl-conversions)
-
-# Credits
-These definitions were written by [Alexander Marks](https://github.com/aomarks), [ExE Boss](https://github.com/ExE-Boss), and [BendingBender](https://github.com/BendingBender).
